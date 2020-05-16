@@ -1,7 +1,6 @@
 const { pool } = require('./config.js');
 let ans = [
-    'Смешно','Хорошо','Классно','ООоо','хм','Да','Воу',' ','Эммм...','Пахпахпаххпахп','Мммм','Ладнооо',' ','Я','Неее',
-    'Что?','Всм?','Нужно подумать','Дяяяя'
+    'Смешно','Хорошо','Классно','Нет', 'Что?','Всм?','Нужно подумать','Да'
 ];
 let stik = [
     'CAACAgQAAxkBAAKzR169HZTDG8CjAAHG73q7Vlvg43UNugACegEAAnQ4EhCFJKTRsFp-rhkE','CAACAgQAAxkBAAKzVV69HeR6PY2kRk7SSlzGflUQkpu8AAIYAAN0OBIQlihYGsqlvTYZBA', 'CAACAgQAAxkBAAKzWV69HfH_U7-GbrknjShZxtBmkCCFAAIQAQACdDgSEBNohE5YY5-zGQQ', 'CAACAgQAAxkBAAKzW169HfmoNWy_iLKcvJjfVThrs1hGAAIBAAN0OBIQ1m1UN1HE_9YZBA',
